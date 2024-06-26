@@ -1,3 +1,4 @@
-#Git course
- - feature-A
- - feature-C
+# Git Course  
+
+- feature-A
+- feature-C

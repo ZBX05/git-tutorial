@@ -1,8 +1,10 @@
-#include <stdio.h>
 #include <iostream>
+
+#define hello "Hello Git!"
 
 using namespace std;
 
 int main(){
-    cout<<"Hello Git!"<<endl;
+    cout<<hello<<endl;
+    return 0;
 }
